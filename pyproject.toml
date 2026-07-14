@@ -1,0 +1,11 @@
+[project]
+name = "poc1-mcp-echo"
+version = "0.1.0"
+description = "PoC 1 de la serie MCP: server stdio con tools basicas (echo, add, reverse)"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp>=1.27.0",
+]
+
+[tool.uv]
+package = false
