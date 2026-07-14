@@ -91,3 +91,7 @@ Ahí se ve el `initialize`, la negociación de capabilities y cada `tools/call` 
 ## Siguiente en la serie
 
 **PoC 2** — Resource Provider: exponer Google Sheets como Resources leíbles vía MCP.
+
+
+<img width="491" height="721" alt="image" src="https://github.com/user-attachments/assets/0a2cdb2b-a7cb-4fcc-932a-687624b7f536" />
+
